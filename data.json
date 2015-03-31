@@ -1,0 +1,1499 @@
+{
+   "kind":"calendar#events",
+   "etag":"\"1427734595276000\"",
+   "summary":"Boston Meta-Music",
+   "description":"Music-related events in Boston.\n\nWorkshops, masterclasses, meetups, and the such. ",
+   "updated":"2015-03-30T16:56:35.276Z",
+   "timeZone":"America/New_York",
+   "accessRole":"reader",
+   "defaultReminders":[
+
+   ],
+   "nextSyncToken":"COCZiuvF0MQCEAAYAQ==",
+   "items":[
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927111478000\"",
+         "id":"mj3ibcvitdv06esbsrv2e8rml4",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bWozaWJjdml0ZHYwNmVzYnNydjJlOHJtbDQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:38:57.000Z",
+         "updated":"2015-03-27T13:39:15.739Z",
+         "summary":"Confronting Violence: Arts Performance and Discussion About Hip-Hop",
+         "description":"http://ofa.fas.harvard.edu/cal/details.php?ID=45347",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-09T19:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-09T20:30:00-04:00"
+         },
+         "iCalUID":"mj3ibcvitdv06esbsrv2e8rml4@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.mj3ibcvitdv06esbsrv2e8rml4"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927210380000\"",
+         "id":"fe8d9ki8t0fma6pkbe9o4h2s94",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=ZmU4ZDlraTh0MGZtYTZwa2JlOW80aDJzOTQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:39:44.000Z",
+         "updated":"2015-03-27T13:40:05.190Z",
+         "summary":"a conversation with composer TANIA LEÓN",
+         "description":"http://ofa.fas.harvard.edu/cal/details.php?ID=45329",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-16T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-16T17:00:00-04:00"
+         },
+         "iCalUID":"fe8d9ki8t0fma6pkbe9o4h2s94@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.fe8d9ki8t0fma6pkbe9o4h2s94"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927267794000\"",
+         "id":"i9r342k8cpievmp7sq4306crt4",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=aTlyMzQyazhjcGlldm1wN3NxNDMwNmNydDQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:40:19.000Z",
+         "updated":"2015-03-27T13:40:33.897Z",
+         "summary":"a conversation with 2015 Jazz Masters in Residence GEORGE COLEMAN and HAROLD MABERN",
+         "description":"http://ofa.fas.harvard.edu/cal/details.php?ID=45328",
+         "location":"Residence GEORGE COLEMAN and HAROLD MABERN",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-17T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-17T17:00:00-04:00"
+         },
+         "iCalUID":"i9r342k8cpievmp7sq4306crt4@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.i9r342k8cpievmp7sq4306crt4"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927400386000\"",
+         "id":"4n6uttt7oqmns3r4bj1i8m52ig",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NG42dXR0dDdvcW1uczNyNGJqMWk4bTUyaWcgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:41:05.000Z",
+         "updated":"2015-03-27T13:41:40.193Z",
+         "summary":"a conversation and demonstration with the VIJAY IYER TRIO",
+         "description":"http://ofa.fas.harvard.edu/cal/details.php?ID=45330",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-10T15:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-10T16:00:00-04:00"
+         },
+         "iCalUID":"4n6uttt7oqmns3r4bj1i8m52ig@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.4n6uttt7oqmns3r4bj1i8m52ig"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927481212000\"",
+         "id":"787cf16uj5cnic4e0kejqu9ufg",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=Nzg3Y2YxNnVqNWNuaWM0ZTBrZWpxdTl1ZmcgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:42:09.000Z",
+         "updated":"2015-03-27T13:42:20.606Z",
+         "summary":"ursday music producer JONATHAN SHECTER and musician/producer DAN FREEMAN: “Entrepreneurship in the Digital Music Industry”",
+         "description":"http://ofa.fas.harvard.edu/cal/details.php?ID=45325",
+         "location":"the Digital Music Industry” ",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-02T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-02T17:00:00-04:00"
+         },
+         "iCalUID":"787cf16uj5cnic4e0kejqu9ufg@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.787cf16uj5cnic4e0kejqu9ufg"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927700054000\"",
+         "id":"46cuidr4g021elirb53da3721k",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NDZjdWlkcjRnMDIxZWxpcmI1M2RhMzcyMWsgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:44:03.000Z",
+         "updated":"2015-03-27T13:44:10.027Z",
+         "summary":"Modal Improvisation Clinic with Ken Zuckerman and Amit Kavthekar",
+         "description":"Ken Zuckerman, internationally acclaimed as one of the finest sarod virtuosos performing today, presents this master class and clinic, cosponsored by the Office of Faculty Development, LearnQuest Academy and the Liberal Arts Department.\n",
+         "location":"David Friend Recital Hall, 921 Boylston Street, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-03-30T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-03-30T15:00:00-04:00"
+         },
+         "iCalUID":"46cuidr4g021elirb53da3721k@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.46cuidr4g021elirb53da3721k"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927921988000\"",
+         "id":"00mca5ou741v4chd2ibv9lamrc",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=MDBtY2E1b3U3NDF2NGNoZDJpYnY5bGFtcmMgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:45:56.000Z",
+         "updated":"2015-03-27T13:46:00.994Z",
+         "summary":"The Many Faces of Samba",
+         "description":"Berklee faculty member Alberto Netto presents a clinic on spicing up samba grooves on the drum set.\n",
+         "location":"Oliver Colvin Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-03T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-03T14:00:00-04:00"
+         },
+         "iCalUID":"00mca5ou741v4chd2ibv9lamrc@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.00mca5ou741v4chd2ibv9lamrc"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854927962786000\"",
+         "id":"sv2iqesd2eocqob71m3pn2camo",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=c3YyaXFlc2QyZW9jcW9iNzFtM3BuMmNhbW8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:46:16.000Z",
+         "updated":"2015-03-27T13:46:21.393Z",
+         "summary":"You and the Drums and the Music",
+         "description":"Drummer Marko Djordjevic presents a clinic that is part presentation, part performance, and part open-forum discussion dedicated to the drums and their relationship to music. Non-drummers as well as drummers are strongly encouraged to attend.\n",
+         "location":"Berk Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-03T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-03T15:00:00-04:00"
+         },
+         "iCalUID":"sv2iqesd2eocqob71m3pn2camo@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.sv2iqesd2eocqob71m3pn2camo"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928008070000\"",
+         "id":"v1vicqbqfslsbgraf1oak4uetk",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=djF2aWNxYnFmc2xzYmdyYWYxb2FrNHVldGsgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:46:34.000Z",
+         "updated":"2015-03-27T13:46:44.035Z",
+         "summary":"James Murphy: Solid Soloing Using the Glue Method",
+         "description":"James Murphy, Berklee assistant professor and drum set player for the Blue Man Group Boston, will discuss anddemonstrate his glue method of soloing, which he developed to connect setideas at fast note rates without hesitation.\n",
+         "location":"Oliver Colvin Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-03T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-03T17:00:00-04:00"
+         },
+         "iCalUID":"v1vicqbqfslsbgraf1oak4uetk@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.v1vicqbqfslsbgraf1oak4uetk"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928035256000\"",
+         "id":"t5b6u8mnvpl1npjeh8f5lblf84",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=dDViNnU4bW52cGwxbnBqZWg4ZjVsYmxmODQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:46:52.000Z",
+         "updated":"2015-03-27T13:46:57.628Z",
+         "summary":"Antonio Serrano: Playing with Paco",
+         "description":"Harmonica player Antonio Serrano will describe his musical journey with flamenco great Paco de Lucia.\n",
+         "location":"Oliver Colvin Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-06T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-06T14:00:00-04:00"
+         },
+         "iCalUID":"t5b6u8mnvpl1npjeh8f5lblf84@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.t5b6u8mnvpl1npjeh8f5lblf84"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928063030000\"",
+         "id":"uis8vibtml9qdrkl1hvo9ug76o",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=dWlzOHZpYnRtbDlxZHJrbDFodm85dWc3Nm8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:47:05.000Z",
+         "updated":"2015-03-27T13:47:11.515Z",
+         "summary":"Improvisation Master Class with Marshall Gilkes",
+         "description":"Marshall Gilkes will conduct a master class on jazz improvisation and critique various student groups on their original compositions. Sean Jones will host a brief Q&amp;A session during the class.\n",
+         "location":"David Friend Recital Hall, 921 Boylston Street, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-07T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-07T15:00:00-04:00"
+         },
+         "iCalUID":"uis8vibtml9qdrkl1hvo9ug76o@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.uis8vibtml9qdrkl1hvo9ug76o"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928092166000\"",
+         "id":"85dis17p3bip3si91u46m3ak80",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=ODVkaXMxN3AzYmlwM3NpOTF1NDZtM2FrODAgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:47:20.000Z",
+         "updated":"2015-03-27T13:47:26.083Z",
+         "summary":"Carmen Lundy",
+         "description":"Jazz vocalist/composer/arranger Carmen Lundy will present a clinic.\n",
+         "location":"Berk Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-07T13:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-07T15:30:00-04:00"
+         },
+         "iCalUID":"85dis17p3bip3si91u46m3ak80@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.85dis17p3bip3si91u46m3ak80"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928142266000\"",
+         "id":"68dge7mu9gnm3703quenp88kao",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NjhkZ2U3bXU5Z25tMzcwM3F1ZW5wODhrYW8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:47:46.000Z",
+         "updated":"2015-03-27T13:47:51.133Z",
+         "summary":"Antonio Serrano Performance Clinic",
+         "description":"Attend this clinic and performance by Mediterranean Music Institute visiting artist and harmonica player Antonio Serrano.\n",
+         "location":"Oliver Colvin Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-08T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-08T14:30:00-04:00"
+         },
+         "iCalUID":"68dge7mu9gnm3703quenp88kao@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.68dge7mu9gnm3703quenp88kao"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928172198000\"",
+         "id":"jj4mhcm2cst9ifq9dgoqml1buc",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=amo0bWhjbTJjc3Q5aWZxOWRnb3FtbDFidWMgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:48:00.000Z",
+         "updated":"2015-03-27T13:48:06.099Z",
+         "summary":"Licensing and Taxation for Self-Employed Music Professionals",
+         "description":"Does the thought of setting up your own business as a self-employed musician make you break out in a sweat, especially around tax time? Come learn the ins and outs with Todd Gardner,Berklee faculty member in theMusic Business Department.\n",
+         "location":"Berklee Media Lab, 150 Massachusetts Avenue, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-08T18:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-08T20:00:00-04:00"
+         },
+         "iCalUID":"jj4mhcm2cst9ifq9dgoqml1buc@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.jj4mhcm2cst9ifq9dgoqml1buc"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928208984000\"",
+         "id":"jjguvq48ojfe8jhrhbjkp59tc8",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=ampndXZxNDhvamZlOGpocmhiamtwNTl0YzggMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:48:19.000Z",
+         "updated":"2015-03-27T13:48:24.492Z",
+         "summary":"Uruguay: Sounds from the South",
+         "description":"This clinic about the different grooves and musical styles from Uruguay will end with a live performance featuring the music of prominent composers from Uruguay.\n",
+         "location":"Berk Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-10T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-10T15:00:00-04:00"
+         },
+         "iCalUID":"jjguvq48ojfe8jhrhbjkp59tc8@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.jjguvq48ojfe8jhrhbjkp59tc8"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928257126000\"",
+         "id":"43oqtq9ds57h8j6t7eggch3gis",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NDNvcXRxOWRzNTdoOGo2dDdlZ2djaDNnaXMgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:48:43.000Z",
+         "updated":"2015-03-27T13:48:48.563Z",
+         "summary":"Dweezilla on the Road ",
+         "description":"For the price of a fuzz pedal, attend this guitar master class and learn techniques from Dweezil Zappa, the son of FrankZappa.\n",
+         "location":"David Friend Recital Hall, 921 Boylston Street, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-12T14:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-12T16:10:00-04:00"
+         },
+         "iCalUID":"43oqtq9ds57h8j6t7eggch3gis@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.43oqtq9ds57h8j6t7eggch3gis"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928317052000\"",
+         "id":"pi4f66d9j68548r6ekdhq99174",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=cGk0ZjY2ZDlqNjg1NDhyNmVrZGhxOTkxNzQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:49:14.000Z",
+         "updated":"2015-03-27T13:49:18.526Z",
+         "summary":"Jay Clayton: Wordless Improvisation",
+         "description":"Jay Clayton, a specialist in wordless improvisation, will guide a workshop allowing students to experience musical freedom.\n",
+         "location":"David Friend Recital Hall, 921 Boylston Street, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-14T10:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-14T11:30:00-04:00"
+         },
+         "iCalUID":"pi4f66d9j68548r6ekdhq99174@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.pi4f66d9j68548r6ekdhq99174"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928348046000\"",
+         "id":"vbepe35oe2ud6h9qljshh8lq6c",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=dmJlcGUzNW9lMnVkNmg5cWxqc2hoOGxxNmMgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:49:28.000Z",
+         "updated":"2015-03-27T13:49:34.023Z",
+         "summary":"Jay Clayton Vocal Jazz Workshop",
+         "description":"Vocal innovator Jay Clayton shares her practice techniques and approach to free improvisation as well as fresh ideas for improvising over chord changes.\n",
+         "location":"Berk Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-14T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-14T15:00:00-04:00"
+         },
+         "iCalUID":"vbepe35oe2ud6h9qljshh8lq6c@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.vbepe35oe2ud6h9qljshh8lq6c"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928387208000\"",
+         "id":"htgehecciqs757aipmidd5qe6g",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=aHRnZWhlY2NpcXM3NTdhaXBtaWRkNXFlNmcgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:49:48.000Z",
+         "updated":"2015-03-27T13:49:53.604Z",
+         "summary":"Spotify at Berklee",
+         "description":"Come hear this conversation with The Echo Nest&#39;s CEO, Jim Lucchese, on music&#39;s data and audience&#39;s identities.\n",
+         "location":"Cafe 939, 939 Boylston Street, Boston, Massachusetts 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-15T15:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-15T16:00:00-04:00"
+         },
+         "iCalUID":"htgehecciqs757aipmidd5qe6g@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.htgehecciqs757aipmidd5qe6g"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928413634000\"",
+         "id":"1m68ircvb9m1uroigm9qhdech8",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=MW02OGlyY3ZiOW0xdXJvaWdtOXFoZGVjaDggMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:50:02.000Z",
+         "updated":"2015-03-27T13:50:06.817Z",
+         "summary":"Colombian Drum Set: Traditional and Marching Bands Workshop",
+         "description":"Martin Vejarano, a New York&ndash;based Colombian percussionist/composer, offers a workshop and master class on the Colombian drum set and musical traditions.\n",
+         "location":"Oliver Colvin Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-16T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-16T14:00:00-04:00"
+         },
+         "iCalUID":"1m68ircvb9m1uroigm9qhdech8@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.1m68ircvb9m1uroigm9qhdech8"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928439916000\"",
+         "id":"8rqr5dt4fvjt0g1b2gs9e8j434",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=OHJxcjVkdDRmdmp0MGcxYjJnczllOGo0MzQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:50:15.000Z",
+         "updated":"2015-03-27T13:50:19.958Z",
+         "summary":"Improvisation for Classical Pianists, Session 6",
+         "description":"Moira Lo Bianco presents a clinic drawing on her considerable training in classical music to teach improvisation.\n",
+         "location":"Berk Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-17T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-17T15:00:00-04:00"
+         },
+         "iCalUID":"8rqr5dt4fvjt0g1b2gs9e8j434@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.8rqr5dt4fvjt0g1b2gs9e8j434"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928470780000\"",
+         "id":"mbltur6qd9tla18grlqcm985pk",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bWJsdHVyNnFkOXRsYTE4Z3JscWNtOTg1cGsgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:50:30.000Z",
+         "updated":"2015-03-27T13:50:35.390Z",
+         "summary":"Drum Clinic: Mike Clark ",
+         "description":"Come to this clinic byMike Clark,who is renowned worldwide as one of America&#39;s foremost jazz and funk drummers and whohas performed with jazz greats such as Herbie Hancock, Chet Baker, and Tony Bennett.\n",
+         "location":"Berk Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-05-06T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-05-06T15:00:00-04:00"
+         },
+         "iCalUID":"mbltur6qd9tla18grlqcm985pk@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.mbltur6qd9tla18grlqcm985pk"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928497562000\"",
+         "id":"3iugeih9k6e8p6opkapobpr01g",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=M2l1Z2VpaDlrNmU4cDZvcGthcG9icHIwMWcgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:50:44.000Z",
+         "updated":"2015-03-27T13:50:48.781Z",
+         "summary":"Analogue Heaven",
+         "description":"Sponsored by the Electronic Production and Design Department, Analogue Heaven is a gathering for synthesizer enthusiasts to share their interests in analogue, modular, virtual analogue, and DIY synthesizers and controllers.\n",
+         "location":"David Friend Recital Hall, 921 Boylston Street, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-05-10T10:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-05-10T22:00:00-04:00"
+         },
+         "iCalUID":"3iugeih9k6e8p6opkapobpr01g@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3iugeih9k6e8p6opkapobpr01g"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928577380000\"",
+         "id":"9rfq289eptu78toqilmem5i63s",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=OXJmcTI4OWVwdHU3OHRvcWlsbWVtNWk2M3MgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:51:23.000Z",
+         "updated":"2015-03-27T13:51:28.690Z",
+         "summary":"HackingFutbol: The Soundtrack of Copa America",
+         "description":"Build the viral marketing campaign and online platform for 80 million fans of \"the beautiful game\" and win up to four paid summer internships or jerseys signed by Messi, Neymar, Suarez and more.\n",
+         "location":"275 3rd Street, Cambridge, Massachusetts 02142",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-03-28T12:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-03-29T14:30:00-04:00"
+         },
+         "iCalUID":"9rfq289eptu78toqilmem5i63s@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.9rfq289eptu78toqilmem5i63s"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928603494000\"",
+         "id":"fc22qj0u7lsc5ecolpjl3jkats",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=ZmMyMnFqMHU3bHNjNWVjb2xwamwzamthdHMgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:51:37.000Z",
+         "updated":"2015-03-27T13:51:41.747Z",
+         "summary":"The Music Startup Academy",
+         "description":"BerkleeICE brings the Music Startup Academy to the Berklee community. Participants will learn the ins and outs of licensing and business development as well as getthe chance to pitch theirmusicproduct to business development experts.\n",
+         "location":"General Assembly, 51 Melcher Street, Boston, MA 02210",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-03-31T16:45:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-03-31T21:30:00-04:00"
+         },
+         "iCalUID":"fc22qj0u7lsc5ecolpjl3jkats@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.fc22qj0u7lsc5ecolpjl3jkats"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928662894000\"",
+         "id":"7q8s8oldbkdf46edjca5qg4rp4",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=N3E4czhvbGRia2RmNDZlZGpjYTVxZzRycDQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:52:06.000Z",
+         "updated":"2015-03-27T13:52:11.447Z",
+         "summary":"Forum Featuring Joe Lovano ",
+         "description":"This Berklee Global Jazz Institute forum features Joe Lovano.\n",
+         "location":"Zero Gravity Room, 1260 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-01T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-01T18:00:00-04:00"
+         },
+         "iCalUID":"7q8s8oldbkdf46edjca5qg4rp4@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.7q8s8oldbkdf46edjca5qg4rp4"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928687810000\"",
+         "id":"ofkfv1tvgh4t960jp620ivtn4o",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=b2ZrZnYxdHZnaDR0OTYwanA2MjBpdnRuNG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:52:19.000Z",
+         "updated":"2015-03-27T13:52:23.905Z",
+         "summary":"Words Without Music: A Conversation with Philip Glass",
+         "description":"Prolific composer Philip Glass, widely credited as one of the most influential living figures in all of music, will discuss his long-awaited memoir, Words Without Music, which is soon to be released.\n",
+         "location":"Berklee Performance Center, 136 Massachusetts Avenue, Boston, MA 02115",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-01T19:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-01T21:30:00-04:00"
+         },
+         "iCalUID":"ofkfv1tvgh4t960jp620ivtn4o@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.ofkfv1tvgh4t960jp620ivtn4o"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928742570000\"",
+         "id":"4qupr63i81unr8a7fcubivjtdo",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NHF1cHI2M2k4MXVucjhhN2ZjdWJpdmp0ZG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:52:46.000Z",
+         "updated":"2015-03-27T13:52:51.285Z",
+         "summary":"Forum Featuring Adam Cruz and Danilo Pérez",
+         "description":"This Berklee Global Jazz Institute forum features Adam Cruz and DaniloPérez.\n",
+         "location":"Zero Gravity Room, 1260 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-08T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-08T18:00:00-04:00"
+         },
+         "iCalUID":"4qupr63i81unr8a7fcubivjtdo@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.4qupr63i81unr8a7fcubivjtdo"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928768302000\"",
+         "id":"86p2pb4m97g4sstfc1ont8j3n8",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=ODZwMnBiNG05N2c0c3N0ZmMxb250OGozbjggMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:53:00.000Z",
+         "updated":"2015-03-27T13:53:04.151Z",
+         "summary":"Forum Featuring John Patitucci and Alan Pasqua",
+         "description":"This Berklee Global Jazz Institute forum features John Patitucci and Alan Pasqua.\n",
+         "location":"Zero Gravity Room, 1260 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-15T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-15T18:00:00-04:00"
+         },
+         "iCalUID":"86p2pb4m97g4sstfc1ont8j3n8@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.86p2pb4m97g4sstfc1ont8j3n8"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928796556000\"",
+         "id":"gof4a1scr0c76hh2j41nctm7to",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=Z29mNGExc2NyMGM3NmhoMmo0MW5jdG03dG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:53:14.000Z",
+         "updated":"2015-03-27T13:53:18.278Z",
+         "summary":"Forum Featuring Joe Lovano ",
+         "description":"This Berklee Global Jazz Institute forum features Joe Lovano.\n",
+         "location":"Zero Gravity Room, 1260 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-22T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-22T18:00:00-04:00"
+         },
+         "iCalUID":"gof4a1scr0c76hh2j41nctm7to@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.gof4a1scr0c76hh2j41nctm7to"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854928825578000\"",
+         "id":"rq4errugf22q67lfjch1jgl5vg",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=cnE0ZXJydWdmMjJxNjdsZmpjaDFqZ2w1dmcgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:53:27.000Z",
+         "updated":"2015-03-27T13:53:32.789Z",
+         "summary":"Forum Featuring Adam Cruz and Danilo Pérez",
+         "description":"This Berklee Global Jazz Institute forum features Adam Cruz and Danilo Pérez.\n",
+         "location":"Zero Gravity Room, 1260 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-29T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-29T18:00:00-04:00"
+         },
+         "iCalUID":"rq4errugf22q67lfjch1jgl5vg@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.rq4errugf22q67lfjch1jgl5vg"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854929752214000\"",
+         "id":"o8pkqggkur916q31oh4v9v5538",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bzhwa3FnZ2t1cjkxNnEzMW9oNHY5djU1MzggMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:01:06.000Z",
+         "updated":"2015-03-27T14:01:16.107Z",
+         "summary":"March 30, 2015 - 8:00:PM Grisha Goryachev Masterclass",
+         "description":"http://necmusic.edu/event/13980",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-03-29T10:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-03-29T11:30:00-04:00"
+         },
+         "iCalUID":"o8pkqggkur916q31oh4v9v5538@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.o8pkqggkur916q31oh4v9v5538"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854930254632000\"",
+         "id":"k95jnietria3ih6duo0a82krl0",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=azk1am5pZXRyaWEzaWg2ZHVvMGE4MmtybDAgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:04:39.000Z",
+         "updated":"2015-03-27T14:05:27.316Z",
+         "summary":"Date: PM Christian Tetzlaff Violin Masterclass",
+         "description":"http://necmusic.edu/event/14205",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-01T17:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-01T18:00:00-04:00"
+         },
+         "transparency":"transparent",
+         "iCalUID":"k95jnietria3ih6duo0a82krl0@google.com",
+         "sequence":1,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.k95jnietria3ih6duo0a82krl0"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854930372262000\"",
+         "id":"j1llag61hsr7galrd3h4lvhjlo",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=ajFsbGFnNjFoc3I3Z2FscmQzaDRsdmhqbG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:01:52.000Z",
+         "updated":"2015-03-27T14:06:26.131Z",
+         "summary":"March 31, 2015 - 4:00:PM Andrew Garland masterclass",
+         "description":"http://necmusic.edu/event/14144",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-03-31T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-03-31T17:00:00-04:00"
+         },
+         "transparency":"transparent",
+         "iCalUID":"j1llag61hsr7galrd3h4lvhjlo@google.com",
+         "sequence":1,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.j1llag61hsr7galrd3h4lvhjlo"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854930466310000\"",
+         "id":"lgo1hhcbtrjhrigmkoiq26ft20",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bGdvMWhoY2J0cmpocmlnbWtvaXEyNmZ0MjAgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:06:45.000Z",
+         "updated":"2015-03-27T14:07:13.155Z",
+         "summary":"Piano Seminar: Hugh Wolff",
+         "description":"http://necmusic.edu/event/13795",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-03T10:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-03T11:00:00-04:00"
+         },
+         "iCalUID":"lgo1hhcbtrjhrigmkoiq26ft20@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.lgo1hhcbtrjhrigmkoiq26ft20"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854930614612000\"",
+         "id":"lre3ntsvhdh9eg3hpnhu0e2i28",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bHJlM250c3ZoZGg5ZWczaHBuaHUwZTJpMjggMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:08:17.000Z",
+         "updated":"2015-03-27T14:08:27.306Z",
+         "summary":"Robert DeMaine Cello Masterclass",
+         "description":"http://necmusic.edu/event/14212",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-13T14:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-13T15:00:00-04:00"
+         },
+         "iCalUID":"lre3ntsvhdh9eg3hpnhu0e2i28@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.lre3ntsvhdh9eg3hpnhu0e2i28"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854930737470000\"",
+         "id":"op67te2nbpg7esu394tg3p7f0o",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=b3A2N3RlMm5icGc3ZXN1Mzk0dGczcDdmMG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:09:19.000Z",
+         "updated":"2015-03-27T14:09:28.735Z",
+         "summary":"Piano Seminar: Ian Power",
+         "description":"http://necmusic.edu/event/13796",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-17T10:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-17T11:00:00-04:00"
+         },
+         "iCalUID":"op67te2nbpg7esu394tg3p7f0o@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.op67te2nbpg7esu394tg3p7f0o"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2854930955726000\"",
+         "id":"ga5h4en272s9akrbibhng4o5ng",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=Z2E1aDRlbjI3MnM5YWtyYmliaG5nNG81bmcgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:10:27.000Z",
+         "updated":"2015-03-27T14:11:17.863Z",
+         "summary":"David Cooper French Horn Masterclass",
+         "description":"http://necmusic.edu/event/14239",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-03-31T17:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-03-31T18:00:00-04:00"
+         },
+         "iCalUID":"ga5h4en272s9akrbibhng4o5ng@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.ga5h4en272s9akrbibhng4o5ng"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855455728210000\"",
+         "id":"0m5ktsltghv8juu883a8o6oakg",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=MG01a3RzbHRnaHY4anV1ODgzYThvNm9ha2cgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:03:17.000Z",
+         "updated":"2015-03-30T15:04:24.105Z",
+         "summary":"Masterclass: Lei Weng",
+         "description":"Lei Weng, international performer and Piano Professor from the University of Northern Colorado, will give a master class.\n\nhttps://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses\n",
+         "location":"Boston Conservatory, 8 Fenway, Boston, MA 02215, United States",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-01T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-01T18:00:00-04:00"
+         },
+         "transparency":"transparent",
+         "iCalUID":"0m5ktsltghv8juu883a8o6oakg@google.com",
+         "sequence":1,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.0m5ktsltghv8juu883a8o6oakg"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855455924690000\"",
+         "id":"tapqkgegusergoi3rekjkohdg0",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=dGFwcWtnZWd1c2VyZ29pM3Jla2prb2hkZzAgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:05:28.000Z",
+         "updated":"2015-03-30T15:06:02.345Z",
+         "summary":"Masterclass: Daniel Druckman",
+         "description":"https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-04T12:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-04T14:00:00-04:00"
+         },
+         "iCalUID":"tapqkgegusergoi3rekjkohdg0@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.tapqkgegusergoi3rekjkohdg0"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855456012244000\"",
+         "id":"9rifb5vookujm2bfhm6f89guik",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=OXJpZmI1dm9va3VqbTJiZmhtNmY4OWd1aWsgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:06:32.000Z",
+         "updated":"2015-03-30T15:06:46.122Z",
+         "summary":"Masterclass: Kirill Gerstein",
+         "description":"https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-10T11:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-10T12:50:00-04:00"
+         },
+         "iCalUID":"9rifb5vookujm2bfhm6f89guik@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.9rifb5vookujm2bfhm6f89guik"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855456239346000\"",
+         "id":"pphl67nnvih2hrok7p23i2tuto",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=cHBobDY3bm52aWgyaHJvazdwMjNpMnR1dG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:08:23.000Z",
+         "updated":"2015-03-30T15:08:39.673Z",
+         "summary":"Masterclass: Julie Leven, Javier Cabellero, Judith Eissenberg",
+         "description":"https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-17T11:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-17T12:50:00-04:00"
+         },
+         "iCalUID":"pphl67nnvih2hrok7p23i2tuto@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.pphl67nnvih2hrok7p23i2tuto"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855456313444000\"",
+         "id":"5n1ld6f4iqk5jdcrem794o5h70",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NW4xbGQ2ZjRpcWs1amRjcmVtNzk0bzVoNzAgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:09:04.000Z",
+         "updated":"2015-03-30T15:09:16.722Z",
+         "summary":"Masterclass: Judith Gordon",
+         "description":"https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-24T11:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-24T12:50:00-04:00"
+         },
+         "iCalUID":"5n1ld6f4iqk5jdcrem794o5h70@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.5n1ld6f4iqk5jdcrem794o5h70"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855457027622000\"",
+         "id":"l05ve2num2kkeid74lp7nhioek",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bDA1dmUybnVtMmtrZWlkNzRscDduaGlvZWsgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:14:27.000Z",
+         "updated":"2015-03-30T15:15:13.811Z",
+         "summary":"BSO 101: Are You Listening? \"Musical Imaginings\" BSO Director of Program Publications Marc Mandel with BSO principal viola Steven Ansell",
+         "description":"http://www.bso.org/Performance/Detail/68777",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-08T17:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-08T18:30:00-04:00"
+         },
+         "iCalUID":"l05ve2num2kkeid74lp7nhioek@google.com",
+         "sequence":1,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.l05ve2num2kkeid74lp7nhioek"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855457038962000\"",
+         "id":"mghm63s6qe823i12i7d9mne0gk",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=bWdobTYzczZxZTgyM2kxMmk3ZDltbmUwZ2sgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:07:15.000Z",
+         "updated":"2015-03-30T15:15:19.481Z",
+         "summary":"Masterclass: Kathleen Bride",
+         "description":"https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-11T11:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-11T13:30:00-04:00"
+         },
+         "iCalUID":"mghm63s6qe823i12i7d9mne0gk@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.mghm63s6qe823i12i7d9mne0gk"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855457052488000\"",
+         "id":"6q97d2vqb9n7b2li8ir8c8t54o",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=NnE5N2QydnFiOW43YjJsaThpcjhjOHQ1NG8gMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T14:07:43.000Z",
+         "updated":"2015-03-30T15:15:26.244Z",
+         "summary":"Lucy Chapman Chamber Music Class",
+         "description":"http://necmusic.edu/event/14184",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-11T13:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-11T14:00:00-04:00"
+         },
+         "iCalUID":"6q97d2vqb9n7b2li8ir8c8t54o@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.6q97d2vqb9n7b2li8ir8c8t54o"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855457082832000\"",
+         "id":"3hupi7okfugk7ls2jags1g7pr4",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=M2h1cGk3b2tmdWdrN2xzMmphZ3MxZzdwcjQgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:07:46.000Z",
+         "updated":"2015-03-30T15:15:41.416Z",
+         "summary":"Masterclass: Mark Ponzo",
+         "description":"https://www.bostonconservatory.edu/guest-artist-residencies-and-masterclasses",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-13T17:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-13T19:30:00-04:00"
+         },
+         "iCalUID":"3hupi7okfugk7ls2jags1g7pr4@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.3hupi7okfugk7ls2jags1g7pr4"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855457274562000\"",
+         "id":"2g8267b4b98f4pampcl4955nos",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=Mmc4MjY3YjRiOThmNHBhbXBjbDQ5NTVub3MgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T15:16:40.000Z",
+         "updated":"2015-03-30T15:17:17.281Z",
+         "summary":"Boston Symphony Open House",
+         "description":"http://www.bso.org/Performance/Detail/72851",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-12T11:30:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-12T12:30:00-04:00"
+         },
+         "iCalUID":"2g8267b4b98f4pampcl4955nos@google.com",
+         "sequence":1,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.2g8267b4b98f4pampcl4955nos"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855468574224000\"",
+         "id":"tm9u9okrrdrnm6li4sa8bqc3ik",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=dG05dTlva3JyZHJubTZsaTRzYThicWMzaWsgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-27T13:45:21.000Z",
+         "updated":"2015-03-30T16:51:27.112Z",
+         "summary":"Where's the \"One\"? A Clinic with Tony Smith",
+         "description":"Aspart of Percussion Days,Tony \"Thunder\" Smith presents a clinic on manipulating rhythms in four/four time with odd time groupings.\n",
+         "location":"Oliver Colvin Recital Hall, 1140 Boylston Street, Boston, MA 02215",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "dateTime":"2015-04-02T16:00:00-04:00"
+         },
+         "end":{
+            "dateTime":"2015-04-02T18:00:00-04:00"
+         },
+         "iCalUID":"tm9u9okrrdrnm6li4sa8bqc3ik@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.tm9u9okrrdrnm6li4sa8bqc3ik"
+      },
+      {
+         "kind":"calendar#event",
+         "etag":"\"2855469190316000\"",
+         "id":"ksn9q4oru189q4affudvoouq0c",
+         "status":"confirmed",
+         "htmlLink":"https://www.google.com/calendar/event?eid=a3NuOXE0b3J1MTg5cTRhZmZ1ZHZvb3VxMGMgMTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZw",
+         "created":"2015-03-30T16:56:29.000Z",
+         "updated":"2015-03-30T16:56:35.158Z",
+         "summary":"Teaching Music to Students on the Autism Spectrum Conference",
+         "description":"http://www.bostonconservatory.edu/autism-conference",
+         "creator":{
+            "email":"alex@musikata.com",
+            "displayName":"Alex at Musikata"
+         },
+         "organizer":{
+            "email":"112tet0ano4odoh096eiqdbh40@group.calendar.google.com",
+            "displayName":"Boston Meta-Music",
+            "self":true
+         },
+         "start":{
+            "date":"2015-05-08"
+         },
+         "end":{
+            "date":"2015-05-10"
+         },
+         "transparency":"transparent",
+         "iCalUID":"ksn9q4oru189q4affudvoouq0c@google.com",
+         "sequence":0,
+         "hangoutLink":"https://plus.google.com/hangouts/_/musikata.com/alex?hceid=MTEydGV0MGFubzRvZG9oMDk2ZWlxZGJoNDBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ.ksn9q4oru189q4affudvoouq0c"
+      }
+   ]
+}

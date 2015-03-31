@@ -5,58 +5,66 @@ var API_KEY = 'AIzaSyD8C670y5MdncenGsjFrIqBppLErQd3Gbk';
 $(document).ready(function() {
   // Get calendar data.
   var promise = $.ajax({
-    url: ENDPOINT + CALENDAR_ID + '/events',
+    //url: ENDPOINT + CALENDAR_ID + '/events',
+    url: 'data.json',
     data: {
       key: API_KEY,
       //timeMin: null,
       //timeMax: null,
     },
-    dataType: 'jsonp'
+    //dataType: 'jsonp'
+    dataType: 'json'
   })
 
   promise.then(function(data) {
-    // Group items by date.
-    var itemsByDate = {};
     var items = data.items;
+
+    // Decorate items with date time objects for start times
     for (var i=0; i < items.length; i++) {
       var item = items[i];
-      var startDate = new Date(item.start.dateTime || item.start.date);
-      var dateString = startDate.toDateString();
-      if (! itemsByDate[dateString]) {
-        itemsByDate[dateString] = [];
-      }
-      itemsByDate[dateString].push(item);
+      item.startDateObj = new Date(item.start.dateTime || item.start.date);
     }
 
-    // Format output.
+    items.sort(function(a, b) {
+      return a.startDateObj - b.startDateObj;
+    });
+
+    // Output items.
+    var lastDateString = null;
     var $outputEl = $('#output');
-    var $datesListEl = $('<ol></ol>');
-    for (var dateString in itemsByDate) {
-      var $dateLiEl = $('<li>' + dateString  + '</li>');
-      $datesListEl.append($dateLiEl);
+    var $datesListEl = $('<ol style="list-style-type: none;"></ol>');
+    var $dateLiEl = null;
+    var $itemsListEl = null;
 
-      var $itemsListEl = $('<ol></ol>');
-
-      var dateItems = itemsByDate[dateString];
-      dateItems.forEach(function(item) {
-        var $itemLiEl = $('<li></li>');
-
-        // Format time if available.
-        var time = '';
-        if (item.start.dateTime) {
-          var dateTime = new Date(item.start.dateTime);
-          var time = pad(dateTime.getHours(),2) + ':' + pad(dateTime.getMinutes(),2);
+    items.forEach(function(item) {
+      // Start new date group for each new date.
+      var dateString = item.startDateObj.toDateString(); 
+      if (dateString != lastDateString) {
+        if ($dateLiEl) {
+          $dateLiEl.append($itemsListEl);
+          $datesListEl.append($dateLiEl);
         }
+        var dateTitle = '=== ' + dateString.toUpperCase() + ' ===';
+        $dateLiEl = $('<li>' + dateTitle + '</li>');
+        $itemsListEl = $('<ol></ol>');
+      }
 
-        var title = item.summary.toUpperCase();
+      var $itemLiEl = $('<li></li>');
 
-        $itemLiEl.html(time + ' ' + title + '</br>' + item.description);
+      // Format time if available.
+      var itemTime = '';
+      if (item.start.dateTime) {
+        var dateTime = new Date(item.start.dateTime);
+        var itemTime = pad(dateTime.getHours(),2) + ':' + pad(dateTime.getMinutes(),2);
+      }
 
-        $itemsListEl.append($itemLiEl);
-      });
+      var itemTitle = item.summary.toUpperCase();
 
-      $dateLiEl.append($itemsListEl);
-    }
+      $itemLiEl.html(itemTime + ' ' + itemTitle + '</br>' + item.description + '</br></br>');
+      $itemsListEl.append($itemLiEl);
+
+      lastDateString = dateString;
+    });
 
     $outputEl.append($datesListEl);
 
