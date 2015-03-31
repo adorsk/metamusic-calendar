@@ -3,9 +3,13 @@ var CALENDAR_ID = '112tet0ano4odoh096eiqdbh40@group.calendar.google.com';
 var API_KEY = 'AIzaSyD8C670y5MdncenGsjFrIqBppLErQd3Gbk';
 var DEBUG = false;
 
+var $outputEl = $('#output');
+
 $(document).ready(function() {
 
   $('#go').on('click', function() {
+
+    $outputEl.empty();
 
     // Get time range if provided.
     var timeBounds = {'timeMin': null, 'timeMax': null};
@@ -58,7 +62,6 @@ $(document).ready(function() {
 
       // Output items.
       var lastDateString = null;
-      var $outputEl = $('#output');
       var $datesListEl = $('<ol style="list-style-type: none;"></ol>');
       var $dateLiEl = null;
       var $itemsListEl = null;
