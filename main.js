@@ -13,7 +13,10 @@ $(document).ready(function() {
       var $boundEl = $('#' + boundId);
       var boundVal = $boundEl.val();
       if (boundVal) {
-        timeBounds[boundId] = (new Date(boundVal)).toISOString();
+        // Browser interprets date as UTC. Convert to local time.
+        var utcDate =  new Date(boundVal);
+        var localDate = new Date(utcDate.getTime() + (60 * 1e3 * utcDate.getTimezoneOffset()));
+        timeBounds[boundId] = localDate.toISOString();
       }
     };
 
