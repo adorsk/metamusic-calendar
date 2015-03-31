@@ -59,8 +59,9 @@ $(document).ready(function() {
       }
 
       var itemTitle = item.summary.toUpperCase();
+      var itemDescription = Autolinker.link(item.description, {newWindow: true});
 
-      $itemLiEl.html(itemTime + ' ' + itemTitle + '</br>' + item.description + '</br></br>');
+      $itemLiEl.html(itemTime + ' ' + itemTitle + '</br>' + itemDescription + '</br></br>');
       $itemsListEl.append($itemLiEl);
 
       lastDateString = dateString;
