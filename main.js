@@ -13,7 +13,7 @@ $(document).ready(function() {
       var $boundEl = $('#' + boundId);
       var boundVal = $boundEl.val();
       if (boundVal) {
-        timeBounds[boundId] = new Date(boundVal);
+        timeBounds[boundId] = (new Date(boundVal)).toISOString();
       }
     };
 
@@ -38,6 +38,10 @@ $(document).ready(function() {
 
     promise.then(function(data) {
       var items = data.items;
+      if (! items) {
+        console.log('no items!', data);
+        return;
+      }
 
       // Decorate items with date time objects for start times
       for (var i=0; i < items.length; i++) {
