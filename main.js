@@ -45,8 +45,8 @@ $(document).ready(function() {
           $datesListEl.append($dateLiEl);
         }
         var dateTitle = '=== ' + dateString.toUpperCase() + ' ===';
-        $dateLiEl = $('<li>' + dateTitle + '</li>');
-        $itemsListEl = $('<ol></ol>');
+        $dateLiEl = $('<li style="margin-top: 1em;">' + dateTitle + '</li>');
+        $itemsListEl = $('<ul style="list-style-type: disc; padding-top: 1em;"></ul>');
       }
 
       var $itemLiEl = $('<li></li>');
@@ -61,7 +61,10 @@ $(document).ready(function() {
       var itemTitle = item.summary.toUpperCase();
       var itemDescription = Autolinker.link(item.description, {newWindow: true});
 
-      $itemLiEl.html(itemTime + ' ' + itemTitle + '</br>' + itemDescription + '</br></br>');
+      var line1 = itemTime + ' ' + itemTitle;
+      var line2 = itemDescription;
+
+      $itemLiEl.html(line1 + '</br>' + line2 + '</br></br>');
       $itemsListEl.append($itemLiEl);
 
       lastDateString = dateString;
